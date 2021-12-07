@@ -1,0 +1,16 @@
+enter for a: enter for b: enter for c: enter for d: a = 98765425
+b = -225114
+c = 5465432165487
+d = 0
+a - c = 66599938
+d-d = 0
+c-d = 5465432165487
+d-c = -5465432165487
+d==d Result: 1
+d!=d Result: 0
+(c-d)>(d-c) Result: 1
+(c-d)<(d-c) Result: 0
+d =(a-c) Result: 66599938
+d == (a-c) Result: 1
+d <= b Result: 0
+(d-(a-c)) >= (b+b) :0 >= -450228 Result: 1
